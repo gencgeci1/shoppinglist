@@ -9,3 +9,5 @@ salt
 steak
 potato
 thyme
+wine
+pesto
